@@ -26,7 +26,7 @@
 
     <groupId>org.codice.testify.propertiesparsers</groupId>
     <artifactId>commapropertiesparser</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>bundle</packaging>
     <name>Comma Properties Parser</name>
 
@@ -34,7 +34,8 @@
         <connection>scm:git:https://github.com/testify/CommaPropertiesParser.git</connection>
         <developerConnection>scm:git:https://github.com/testify/CommaPropertiesParser.git</developerConnection>
         <url>https://github.com/testify/CommaPropertiesParser.git</url>
-    </scm>
+      <tag>commapropertiesparser-0.0.1</tag>
+  </scm>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
